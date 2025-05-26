@@ -1,5 +1,4 @@
-# sqlinjection
-Exploiting SQL Injection vulnerability
+
 
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
